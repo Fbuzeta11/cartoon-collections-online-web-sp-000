@@ -1,9 +1,5 @@
 def roll_call_dwarves(dwarves)# code an argument here
-function (dwarves) {var newStr = [];}
- dwarves.each(function(name, i) 
-  newStr.push(i+1 +". " + name)
- 	return newstr.join(" ")
- 	end
+
  	end
 
 def summon_captain_planet# code an argument here
