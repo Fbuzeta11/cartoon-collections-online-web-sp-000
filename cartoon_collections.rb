@@ -12,7 +12,7 @@ end
 
 def long_planeteer_calls(calls)
   answer = FALSE
-  calls# code an argument here
+  calls.each do |call|  # code an argument here
 
 end
    
