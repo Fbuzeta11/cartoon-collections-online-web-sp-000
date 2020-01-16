@@ -11,7 +11,8 @@ def summon_captain_planet(veggies)# code an argument here
 end
 
 def long_planeteer_calls(calls)
-  # code an argument here
+  answer = FALSE
+  calls# code an argument here
 
 end
    
