@@ -12,6 +12,9 @@ end
    
    
  
+snacks = ["crackers", "gouda", "thyme"]
+soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
+ingredients = ["garlic", "bread", "rosemary"]
 
 def find_the_cheese# code an argument here
 array.find do |cheese| 
