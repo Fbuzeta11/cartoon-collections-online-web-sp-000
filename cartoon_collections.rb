@@ -18,9 +18,6 @@ end
 ingredients = ["garlic", "cheddar", "gouda", "camembert", "bread", "rosemary"]
 
 def find_the_cheese# code an argument here
-array.find do |cheese| 
-    cheese == "cheddar" || cheese == "gouda" || cheese == "camembert"
-    end 
-find_the_cheese(ingredients)
+
   
 end
